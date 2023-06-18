@@ -1,0 +1,93 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+ 
+  /* Header styles */
+  header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+ 
+  header h1 {
+    margin: 0;
+  }
+ 
+  /* Navigation styles */
+  nav {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+ 
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+ 
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+    border-radius: 4px;
+  }
+ 
+  nav ul li a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+ 
+  /* Section styles */
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+ 
+  section h2 {
+    margin-top: 0;
+  }
+ 
+  section p {
+    margin-top: 0;
+  }
+ 
+  /* Outreach section styles */
+  #outreach ul {
+    list-style: none;
+    padding: 0;
+  }
+ 
+  #outreach li {
+    margin-bottom: 10px;
+  }
+ 
+  #outreach li strong {
+    display: inline-block;
+    width: 100px;
+    font-weight: bold;
+  }
+ 
+  #outreach a {
+    text-decoration: none;
+    color: #333;
+  }
+ 
+  #outreach a:hover {
+    text-decoration: underline;
+  }
+ 
